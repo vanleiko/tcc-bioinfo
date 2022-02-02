@@ -80,7 +80,7 @@
 
 - Gerar BAM dos reads não mapeados:
 
-```samtools view -u -f 12 -b bwa/VIRROMA_mapped_host.bam \```
+```samtools view -u -f 12 -b bwa/METAGENOMICA_mapped_host.bam \```
 
 ```| samtools sort -n > bwa/METAGENOMICA_unmapped_host.bam```
 
