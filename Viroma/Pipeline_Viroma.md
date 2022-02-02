@@ -125,7 +125,7 @@
 
 - Criar diretório para os outputs do SPAdes:
 
-```mkdir assembly```
+```mkdir assembly_viroma```
 
 - Montagem dos contigs:
 
@@ -135,7 +135,7 @@
   
  ```-2 bwa/VIROMA_unmapped_host_R2.fastq \```
   
- ```-o assembly & ```
+ ```-o assembly_viroma & ```
  
 - Identificação taxonômica:
 
@@ -147,7 +147,7 @@
 
 ```--minimum-base-quality 20 \```
 
-```assembly/contigs.fasta```
+```assembly_viroma/contigs.fasta```
 
 - Gerar relatório:
 
