@@ -121,7 +121,7 @@
 
 ```-q 2 -t 3 -o kraken2/VIROMA_classification.html```
 
-# Montagem dos reads em contigs (etapa adicional de validação)
+# Montagem dos reads em contigs (etapa opcional de validação)
 
 - Instalar SPAdes:
 
