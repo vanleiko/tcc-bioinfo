@@ -71,7 +71,7 @@
 
 ```cutadapt -u 9 -U 9 -u -1 -U -1 -m 50 \```
 
-```-o cutadapt/VIROMA_cleaned_R1.fastq.gz -p cutadapt/VIROMA_cleaned_R2.fastq.gz```
+```-o cutadapt/VIROMA_cleaned_R1.fastq.gz -p cutadapt/VIROMA_cleaned_R2.fastq.gz \```
 
 ```fastq/VIROMA_R1_001.fastq.gz fastq/VIROMA_R2_001.fastq.gz > cutadapt/summary_cutadapt_VIROMA.txt```
 
