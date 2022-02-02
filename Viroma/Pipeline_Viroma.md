@@ -123,10 +123,6 @@
 
 # Montagem dos reads em contigs (etapa opcional de validação)
 
-- Instalar SPAdes:
-
-```conda install --channel bioconda spades --yes```
-
 - Criar diretório para os outputs do SPAdes:
 
 ```mkdir assembly```
