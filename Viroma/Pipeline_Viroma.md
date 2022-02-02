@@ -129,13 +129,13 @@
 
 - Montagem dos contigs:
 
-```spades.py --meta \```
+```nohup spades.py --meta \```
  
  ```-1 bwa/VIROMA_unmapped_host_R1.fastq \```
   
  ```-2 bwa/VIROMA_unmapped_host_R2.fastq \```
   
- ```-o assembly ```
+ ```-o assembly & ```
  
 - Identificação taxonômica:
 
