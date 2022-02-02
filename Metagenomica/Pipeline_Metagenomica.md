@@ -154,3 +154,10 @@ Nesta última etapa, cabe ao analista ou médico patologista/infectologista insp
 É importante ressaltar que o resultado da identificação taxonômica gerado pelo Kraken2 não deve ser levado em consideração unicamente. O processo de laudamente deve envolver uma etapa posterior de validação do achado, que poderia remover falso-positivos gerados pelo Kraken2 ou mesmo encontrar patógenos que não foram apontado pela identificação do Kraken2.
 
 ## Classificação taxonômica - reads:
+
+![snapshot](https://user-images.githubusercontent.com/69684722/152216945-3b7cdec1-e828-489d-a79d-784b7e459915.svg)
+
+## Classificação taxonômica - contigs:
+
+![snapshot (1)](https://user-images.githubusercontent.com/69684722/152217001-677fc9ac-9198-466c-a616-9fd2f94ba65d.svg)
+
