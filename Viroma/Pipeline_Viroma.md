@@ -34,6 +34,7 @@
 ```conda install --channel bioconda fastqc cutadapt kraken2 krona bwa samtools spades --yes```
 
 - Criar diretórios para organização dos arquivos:
+
 ```mkdir -p fastq kraken2 kraken2-db fastqc cutadapt human-ref bwa```
 
 # Download dos dados
