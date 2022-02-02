@@ -164,4 +164,12 @@
 Nesta última etapa, cabe ao analista ou médico patologista/infectologista inspecionar os resultados gerados pelos relatórios de diversidade para identificar possíveis patógenos na amostra.
 É importante ressaltar que o resultado da identificação taxonômica gerado pelo Kraken2 não deve ser levado em consideração unicamente. O processo de laudamente deve envolver uma etapa posterior de validação do achado, que poderia remover falso-positivos gerados pelo Kraken2 ou mesmo encontrar patógenos que não foram apontado pela identificação do Kraken2.
 
+## Classificação taxonômica - reads:
+
 ![snapshot](https://user-images.githubusercontent.com/69684722/152161607-9b681346-4359-40ae-9634-c94375ec0098.svg)
+
+
+## Classificação taxonômica - contigs:
+
+![snapshot (1)](https://user-images.githubusercontent.com/69684722/152161980-9c79a315-dbbc-4bf2-bc86-5ecdce588254.svg)
+
