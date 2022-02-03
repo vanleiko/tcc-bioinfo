@@ -1,3 +1,7 @@
+```exemplo bloco de codigo
+bash Miniconda3-py38_4.10.3-Linux-x86_64.sh
+exemplo bloco de codigo```
+
 ## Metagenômica Workflow | Resumo
 
 #### Bioinformática:
