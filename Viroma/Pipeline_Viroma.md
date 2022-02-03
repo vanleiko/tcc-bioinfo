@@ -145,8 +145,6 @@
 
 ```--output kraken2/VIROMA_kraken2_NT_contigs.out \```
 
-```--minimum-base-quality 20 \```
-
 ```assembly_viroma/contigs.fasta```
 
 - Gerar relatório:
