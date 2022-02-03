@@ -138,8 +138,6 @@
 
 ```--output kraken2/METAGENOMICA_kraken2_NT_contigs.out \```
 
-```--minimum-base-quality 20 \```
-
 ```assembly_metagenomica/contigs.fasta```
 
 - Gerar relatório:
