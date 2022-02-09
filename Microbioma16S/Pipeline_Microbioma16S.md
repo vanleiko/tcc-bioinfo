@@ -1,3 +1,13 @@
+## Microbioma 16S Workflow | Resumo
+
+#### Bioinformática:
+1. Baixar banco de dados.
+2. Criar arquivos "metadata" e "manifest".
+3. Importar sequências.
+4. Análise da qualidade e inferência de amplicon.
+5. Identificação taxonômica.
+6. Resultado.
+
 # Preparo do ambiente
 
 - Instalar e ativar Qiime2:
