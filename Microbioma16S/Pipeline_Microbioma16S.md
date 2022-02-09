@@ -115,7 +115,7 @@ Firmicutes: 18,05%
 
 ### <b>Nível 6 - Maiores frequências:</b>
 
-<i>Pseudomonas:<i/> 45,6%
+<i>Pseudomonas:</i> 45,6%
 
 Unassigned: 35,07%
 
