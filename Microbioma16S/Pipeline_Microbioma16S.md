@@ -103,7 +103,7 @@ Eucaryota: 0,03
 
 ![level1](https://user-images.githubusercontent.com/69684722/153259382-ea8659a4-57b4-4a1a-aec6-907c8a814cdf.png)
 
-### <b>Nível 2: - Maiores frequências:<b/b>
+### <b>Nível 2: - Maiores frequências:</b>
 
 Proteobacteria: 46,2%
 
@@ -115,13 +115,13 @@ Firmicutes: 18,05%
 
 ### <b>Nível 6 - Maiores frequências:</b>
 
-<i>Pseudomonas: 45,6%</i>
+<i>Pseudomonas:<i/> 45,6%
 
 Unassigned: 35,07%
 
-<i>Enterococcus: 13,87%</i>
+<i>Enterococcus:</i> 13,87%
 
-<i>Staphylococcus carnosus: 3,67%</i>
+<i>Staphylococcus carnosus:</i> 3,67%
 
 ![level6](https://user-images.githubusercontent.com/69684722/153258298-a5a0cab8-c7b8-4fcd-8413-c6827ce90d8d.png)
 
