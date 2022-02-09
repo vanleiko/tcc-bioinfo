@@ -99,7 +99,7 @@ Bacteria: 64,9%
 
 Unassigned: 35,07%
 
-Eucaryota: 0,03
+Eucaryota: 0,03%
 
 ![level1](https://user-images.githubusercontent.com/69684722/153259382-ea8659a4-57b4-4a1a-aec6-907c8a814cdf.png)
 
